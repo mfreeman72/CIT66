@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1664818857 source:/home/mike/Desktop/FCC/CIT-66/warmup-03oct22-dennis-and-michael/warmUP03oct22.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<exception>
+
+1664819307 source:/home/mike/Desktop/FCC/CIT-66/C++ Projects/warmUp3Oct22/main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<exception>
+
