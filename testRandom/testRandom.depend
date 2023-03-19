@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1668450247 source:/home/mike/Desktop/FCC/CIT-66/C++ Projects/testRandom/main.cpp
+	<iostream>
+	<cstdlib>
+

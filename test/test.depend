@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1668126599 source:/home/mike/Desktop/FCC/CIT-66/C++ Projects/test/main.cpp
+	<iostream>
+	<string>
+
