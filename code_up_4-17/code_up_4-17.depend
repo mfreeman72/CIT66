@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1660758961 source:/home/mike/Desktop/FCC/CIT-66/C++ Projects/code_up_4-17/main.cpp
+	<iostream>
+	<iomanip>
+	<cmath>
+

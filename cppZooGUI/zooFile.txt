@@ -1,0 +1,16 @@
+hyena;Shenzi;female;70; tan;Friguia Park, Tunisia;hy00;4;spring;March 21, 2018;1
+hyena;Banzai;male;150; brown;Friguia Park, Tunisia;hy01;12;fall;September 21, 2010;1
+hyena;Ed;male;120; black;Friguia Park, Tunisia;hy02;4;spring;March 21, 2018;1
+hyena;Zig;female;105; unknown birth season, black and tan striped;Friguia Park, Tunisia;hy03;8;unknown;January 1, 2014;1
+lion;Scar;female;300; tan;Zanzibar, Tanzania;li00;6;spring;March 21, 2016;1
+lion;Mufasa;female;375; dark tan;KopeLion, Tanzania;li01;12;winter;December 21, 2009;1
+lion;Simba;male;450; golden;Zanzibar, Tanzania;li02;22;fall;September 21, 2000;1
+lion;Kiara;female;275; tan and brown;KopeLion, Tanzania;li03;4;spring;March 21, 2018;1
+tiger;Tony;male;270; gold and tan stripes;Dhaka, Bangladesh;ti00;2;spring;March 21, 2020;1
+tiger;Tigger;female;400; black stripes;Dhaka, Bangladesh;ti01;4;spring;March 21, 2018;1
+tiger;Amber;male;300; gold and tan;Bardia, Nepal;ti02;18;fall;September 21, 2004;1
+tiger;Cosimia;female;285; black stripes;Bardia, Nepal;ti03;3;spring;March 21, 2019;1
+bear;Yogi;male;320; brown;Alaska Zoo, Alaska;be00;7;spring;March 21, 2015;1
+bear;Smokey;female;425; black;Woodland park Zoo, Washington ;be01;25;spring;March 21, 1997;1
+bear;Paddington;female;355; black;Woodland park Zoo, Washington ;be02;4;fall;September 21, 2018;1
+bear;Lippy;male;405; brown;Alaska Zoo, Alaska;be03;4;spring;March 21, 2018;1

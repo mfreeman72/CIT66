@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1667237060 source:/home/mike/Desktop/FCC/CIT-66/C++ Projects/cppZooOriginal/main.cpp
+	<iostream>
+	<fstream>
+	<limits>
+	<ctime>
+	<sstream>
+	<string>
+	<bits/stdc++.h>
+
