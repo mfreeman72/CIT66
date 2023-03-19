@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1663977996 source:/home/mike/Desktop/FCC/CIT-66/C++ Projects/midterm/main.cpp
+	<iostream>
+	<fstream>
+	<limits>
+
