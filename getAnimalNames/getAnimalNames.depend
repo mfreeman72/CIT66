@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1664475229 source:/home/mike/Desktop/FCC/CIT-66/C++ Projects/getAnimalNames/main.cpp
+	<iostream>
+	<fstream>
+	<string>
+
